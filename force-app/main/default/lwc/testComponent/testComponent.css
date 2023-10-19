@@ -1,0 +1,17 @@
+.header{
+    background-color: rgb(213 240 240);
+}
+
+.home{
+    color: black;
+}
+
+.tabs{
+    color: rgb(22, 149, 191);
+    font-weight: bold;
+    
+}
+
+.selectedTab{
+    background-color: rgb(15, 111, 170);
+}
